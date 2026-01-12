@@ -1,0 +1,2 @@
+Embedded systems graduate with basic knowledge of Python, C programming,
+microcontrollers, and problem solving skills.
